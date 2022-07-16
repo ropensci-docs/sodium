@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "af198935954ea87f3c794fdffed7977579272e0b",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-06-16 11:53:47",
+    "files": 1,
+    "merge": false,
+    "message": "Modernize DESCRIPTION (#23)\n\nas it was breaking my newsletter code :wink:"
+  },
+  "repo": "https://github.com/r-lib/sodium",
+  "pkg": "sodium"
+}
