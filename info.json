@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6891cd14a6a2f372384aa254f52dc24ff4947a67",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-05-02T13:58:42Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update CI\n"
+  },
+  "repo": "https://github.com/r-lib/sodium",
+  "pkg": "sodium",
+  "time": "2026-08-31T10:15:48Z"
+}
